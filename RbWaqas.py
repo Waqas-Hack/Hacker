@@ -37,15 +37,15 @@ requests.urllib3.disable_warnings()
 os.system('clear')
 print(' \x1b[38;5;46mWAQAS SERVER LOADING....')
 os.system('espeak -a 300 " WAQAS SERVER LOADING"')
-os.system('xdg-open https://youtube.com/@waqas-v8j5v?si=Ef0Ei1oLTCmhZn2M')
+os.system('xdg-open https://youtube.com/-v8j5v?si=Ef0Ei1oLTCmhZn2M')
 os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
 os.system('pip install httpx pip install beautifulsoup4')
-os.system('xdg-open https://www.instagram.com/waqas7862?igsh=dnpzaTBrZXlsM3E3')
+os.system('xdg-open https://www.instagram.com/7862?igsh=dnpzaTBrZXlsM3E3')
 print('loading Modules ...\n')
 os.system('clear')
 print(' \x1b[38;5;46mWAQAS SERVER SUCCESSFUL LOGIN....')
 os.system('espeak -a 300 " WAQAS SERVER TOOL BUT script send by kalyan king sir it’s a good boy kGF Cyber tem admin SUCCESSFUL LOGIN."')
-os.system('xdg-open https://chat.whatsapp.com/HT45wNM634iaDR4qxHIbD1f?mode=ems_copy_t')
+os.system('xdg-open https://chat.whatsapp.com/HT45notwNM634iaDR4qxHIbD1f?mode=ems_copy_t')
 
 # --- Anti-tampering and Security Checks ---
 # The script checks if the source code of the 'requests' library has been modified
